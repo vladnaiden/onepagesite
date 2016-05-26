@@ -9,7 +9,11 @@ var bodyParser = require('body-parser');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+app.set('view engine', 'ejs');asdasdasdasdasdasd
+asdasdasdasdsfscvxcv xcv
+x x svsdfsdfsd
+sdfsdvsdvsdfsdfsdf
+sdfsdfsdf
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
