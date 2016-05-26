@@ -21,8 +21,7 @@ x x svsdfsdfsd
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');asdasdasdasdasdasd
 asdasdasdasdsfscvxcv xcv
-x x svsdfsdfsd
-
+x x svsdfsdfsdasdasdasdasdasdas
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
 app.use(logger('dev'));
