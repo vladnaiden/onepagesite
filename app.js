@@ -9,11 +9,19 @@ var bodyParser = require('body-parser');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');asdasdasdasdasdasd
 asdasdasdasdsfscvxcv xcv
 x x svsdfsdfsd
-sdfsdvsdvsdfsdfsdf
-sdfsdfsdf
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');asdasdasdasdasdasd
+asdasdasdasdsfscvxcv xcv
+x x svsdfsdfsd
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');asdasdasdasdasdasd
+asdasdasdasdsfscvxcv xcv
+x x svsdfsdfsd
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
